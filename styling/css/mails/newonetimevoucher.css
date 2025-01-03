@@ -1,0 +1,56 @@
+.lwss_selectable.lws-main-conteneur.wr_new_one_time_voucher{width:600px;background-color:#fff;border-color:#eee; border-style: solid;
+    border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;
+    margin-top:10px;margin-right:0px;margin-bottom:10px;margin-left:0px;
+    border-collapse:collapse;
+}
+.lwss_selectable.lws-top-cell.lwss_modify.wr_new_one_time_voucher{
+    padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px;
+    background-color:#0b1470;color:#ffffff;
+    font-size:25px;text-align:center;font-family: Arial, Helvetica, sans-serif;font-weight: 300;
+}
+.lwss_selectable.lws-middle-cell.lwss_modify.wr_new_one_time_voucher{
+    color:#666;
+    padding-top:20px;padding-right:20px;padding-bottom:5px;padding-left:20px;
+}
+.lwss_selectable.lws-voucher-table{
+    margin-top:10px;margin-right:0px;margin-bottom:10px;margin-left:0px;
+    background:#eee;
+    width:100%;font-family: Arial, Helvetica, sans-serif;
+}
+.lwss_selectable.lws-voucher-img{
+    padding-top:5px;padding-right:5px;padding-bottom:5px;padding-left:5px;font-size: 5em;text-align: center;
+}
+
+.lwss_selectable.lws-voucher-title{
+    font-size:16px;font-family: Arial, Helvetica, sans-serif;font-weight: bold; color:#777;
+}
+.lwss_selectable.lws-voucher-detail{
+    font-size:16px;font-family: Arial, Helvetica, sans-serif;font-weight: normal;
+    margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;
+    padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;
+    height:100%;
+}
+
+.lwss_selectable.lws-voucher-instruct,
+.lwss_selectable.lws-voucher-link,
+.lwss_selectable.lws-voucher-expiry{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:20px;padding-right:20px;
+}
+.lwss_selectable.lws-voucher-instruct,
+.lwss_selectable.lws-voucher-expiry{
+    font-size:16px;font-weight: normal; color:#777777;
+}
+.lwss_selectable.lws-voucher-link{
+    font-size:18px;font-weight: bold;
+}
+
+.lwss_selectable.lws-bottom-cell.wr_new_one_time_voucher{
+    margin-top:20px;
+    padding-top:5px;padding-right:20px;padding-bottom:5px;padding-left:20px;
+    background-color:#eee;color:#666;
+    font-size:12px;text-align:center;font-family: Arial, Helvetica, sans-serif;font-weight: 300;
+}
+.lws-vouchers-thumbnail{
+    font-size:5em;
+}
